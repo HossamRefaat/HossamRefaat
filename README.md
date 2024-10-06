@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student, Competitive Programmer
 ----------------------------------
 
-* 🌍  I'm based in Minia, Egypt
+* 🌍  I'm based in Cairo, Egypt
 * ✉️  You can contact me at [hossamrefaatmazmaz17@gmail.com](mailto:hossamrefaatmazmaz17@gmail.com)
-* 🧠  I'm learning problem solving skills in programming
-* ⚡  I aspire to learn backend development in the future
+* 🧠  I'm learning Backend development using ASP.Net
+* ⚡  I aspire to learn Cloud computing in the future
 
 ### Skills
 
